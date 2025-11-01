@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" role="img" aria-label="FreiFANG">
+  <g fill="none" stroke="#0F172A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 30 C 40 20, 65 20, 75 30 C 65 40, 40 40, 30 30 Z"/>
+    <path d="M25 24 L12 30 L25 36 Z"/>
+    <circle cx="66" cy="29" r="2.5" fill="#0F172A" stroke="none"/>
+    <path d="M220 8 L220 36 a10 10 0 0 1 -20 0" />
+    <circle cx="220" cy="8" r="2.5"/>
+  </g>
+  <text x="90" y="38" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#0F172A">FreiFANG</text>
+</svg>

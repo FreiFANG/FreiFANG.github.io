@@ -1,0 +1,11 @@
+main:
+  - title: "Start"
+    url: /
+  - title: "Lernmaterial"
+    url: /materialien/
+  - title: "Videos"
+    url: /lehrvideos/
+  - title: "Über das Projekt"
+    url: /about/
+  - title: "Kontakt"
+    url: /kontakt/

@@ -1,0 +1,11 @@
+/* FreiFANG Farbakzente – Wasser & Natur */
+:root {
+  --ffg-accent: #0f766e; /* Teal */
+}
+
+a { color: var(--ffg-accent); }
+
+/* Optionale Hintergrundnuancen */
+.page__content h2, .page__content h3 {
+  scroll-margin-top: 6rem;
+}
